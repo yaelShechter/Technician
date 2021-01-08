@@ -2,7 +2,7 @@ import socket
 import protocol
 
 CLIENT_IP = '127.0.0.1'
-SAVED_PHOTO_LOCATION = r'C:\Users\yaels\Desktop\networks\other.jpg'
+SAVED_PHOTO_LOCATION = ''
 
 NAME_INDEX = 0
 PHOTO_CHUNK_SIZE = 1024
