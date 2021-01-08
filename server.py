@@ -8,7 +8,7 @@ import socket
 import protocol
 
 SERVER_IP = '0.0.0.0'
-PHOTO_PATH = r'C:\Users\yaels\Desktop\Networks\screen.jpg'
+PHOTO_PATH = ''
 
 FIRST_FILE_PATH_INDEX = 0
 SECOND_FILE_PATH_INDEX = 1
